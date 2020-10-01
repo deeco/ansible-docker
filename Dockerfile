@@ -1,4 +1,4 @@
-FROM centos:centos7.7.1908
+FROM centos:centos8
 
 ENV ANSIBLE_HOST_KEY_CHECKING false
 ENV ANSIBLE_GATHERING smart
